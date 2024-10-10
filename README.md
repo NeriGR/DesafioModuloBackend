@@ -84,10 +84,12 @@ Requiere autorización
 
 Para permitir borrar un post
 
-- Solo el usuario dueño del post debe ser capaz de ejecutar esta acción
+- Solo el usuario que creo el post debe ser capaz de ejecutar esta acción
 
-Requiere autorización
-## Lista de endpoints
+#### Crear una API utilizando MongoDB, Express, y Mongoose es una buena práctica porque ofrece un desarrollo rápido, eficiente y escalable. MongoDB, al ser una base de datos NoSQL, permite manejar grandes volúmenes de datos no estructurados con flexibilidad. Express simplifica la creación de servidores y APIs RESTful en Node.js, mientras que Mongoose facilita la interacción con MongoDB mediante un esquema estructurado y validación robusta. Juntos, estos componentes forman una arquitectura moderna, ágil y apta para proyectos de diferentes escalas.
+
+Aprovecho este espacio para agradecer sinceramente que hayan recibido el trabajo a pesar de la demora. Su comprensión es muy valorada. ¡Gracias!
+
 
 
 
